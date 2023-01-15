@@ -1,5 +1,5 @@
 .header {
-    background-color: #1C2B35;
+    background-color: #1d3a4e;
     height: 80px;
     display: flex;
     justify-content:space-between;
@@ -14,5 +14,10 @@
     margin-left: 36px;
 }
 .header a:hover {
-    color: #FF9900;
+    color: #ccac7b;
+}
+.header img{
+    height: 60px;
+    width: 66px;
+    border-radius: 50%;
 }
